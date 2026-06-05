@@ -19,6 +19,12 @@
             "link": "https://youtu.be/6yMzd-eiYVY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Bats",
+            "link": "https://www.youtube.com/watch?v=53B_S1RbLMs",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
