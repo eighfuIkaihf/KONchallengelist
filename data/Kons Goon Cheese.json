@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "0",
     "records": [
+        {
+            "user": "Mase",
+            "link": "https://youtu.be/3cfB90I4lTM",
+            "percent": 100,
+            "hz": 360
+        
     ]
 }
