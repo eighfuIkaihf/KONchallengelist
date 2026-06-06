@@ -26,10 +26,11 @@
             "percent": 100,
             "hz": 240
         },
+        {
             "user": "WhiteBread",
             "link": "https://youtu.be/vw_VJrBIZMA",
             "percent": 100,
             "hz": 240
         }
-    ]
-}
+        }
+]
