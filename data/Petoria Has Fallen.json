@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=NzzGRWiLELE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Sara",
+            "link": "https://youtu.be/FuXaMXouwnE?si=uF_z3CDGMbfT4dOZ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
