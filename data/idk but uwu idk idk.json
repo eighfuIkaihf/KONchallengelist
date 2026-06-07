@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=MxjyoIrOYO4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "EK",
+            "link": "https://youtu.be/Oz17NZlFlgw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
