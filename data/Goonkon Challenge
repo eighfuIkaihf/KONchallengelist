@@ -1,1 +1,18 @@
-
+{
+    "id": 142195794,
+    "name": "Goonkon Challenge",
+    "author": "CJ",
+    "creators": ["CJ"],
+    "verifier": "Koziec",
+    "verification": "https://youtu.be/Qg2UkI_jGUM",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "CJ",
+            "link": "https://youtu.be/RrWPaZDPyik",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
