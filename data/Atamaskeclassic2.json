@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=jtSYdJoxRuM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Apple",
+            "link": "https://youtu.be/AZ_hMBKa5FU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
