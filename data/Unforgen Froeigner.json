@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "0",
     "records": [
+        {
+            "user": "Voodoobanana",
+            "link": "https://www.youtube.com/watch?v=2_MuPRNg_9w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
