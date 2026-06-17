@@ -43,6 +43,59 @@
             "link": "https://youtu.be/zeJm9r2hK-A?si=YOHPu-vZ2JJhXm2z",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Trigus",
+            "link": "https://youtu.be/tLrdLlKJTzA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}{
+    "id": 142195794,
+    "name": "Goonkon Challenge",
+    "author": "CJ",
+    "creators": ["CJ"],
+    "verifier": "Koziec",
+    "verification": "https://youtu.be/Qg2UkI_jGUM",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "CJ",
+            "link": "https://youtu.be/RrWPaZDPyik",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Apple",
+            "link": "https://youtu.be/tmpk3ZAA14s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mase",
+            "link": "https://youtu.be/G6mVMn7lgVk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Voodoobanana",
+            "link": "https://www.youtube.com/watch?v=kXrT4vwxP14",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dizzy",
+            "link": "https://youtu.be/ZYDguljVQl0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Safi",
+            "link": "https://youtu.be/zeJm9r2hK-A?si=YOHPu-vZ2JJhXm2z",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
