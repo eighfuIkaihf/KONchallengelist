@@ -26,6 +26,59 @@
             "percent": 100,
             "hz": 240
         },
+        {
+            "user": "WhiteBread",
+            "link": "https://youtu.be/vw_VJrBIZMA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Voodoobanana",
+            "link": "https://youtu.be/hMbZ27sZBTw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dizzy",
+            "link": "https://youtu.be/xDW0t2XLjHs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Trigus",
+            "link": "https://youtu.be/1596B1rycus",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}{
+    "id": 142082090,
+    "name": "atamaskeclassic",
+    "author": "Atamaske",
+    "creators": ["Atamaske"],
+    "verifier": "Atamaske",
+    "verification": "https://youtu.be/MJ49C7Qjuvs",
+    "percentToQualify": "100",
+    "password": "0",
+    "records": [
+        {
+            "user": "EK",
+            "link": "https://youtu.be/quzyxG6ptKU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mase",
+            "link": "https://youtu.be/9rhZLvf0yl0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Apple",
+            "link": "https://youtu.be/N65Y8ksEge8",
+            "percent": 100,
+            "hz": 240
+        },
          {
             "user": "WhiteBread",
             "link": "https://youtu.be/vw_VJrBIZMA",
