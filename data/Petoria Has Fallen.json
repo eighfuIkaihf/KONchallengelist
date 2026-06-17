@@ -6,7 +6,7 @@
     "verifier": "WhiteBread",
     "verification": "https://youtu.be/eWIDtK__VpQ",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "0",
     "records": [
         {
             "user": "EK",
@@ -65,71 +65,6 @@
         {
             "user": "Trigus",
             "link": "https://youtu.be/uXDwuMfBKy8",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
-}{
-    "id": 141883182,
-    "name": "Petoria Has Fallen",
-    "author": "WhiteBread",
-    "creators": ["WhiteBread"],
-    "verifier": "WhiteBread",
-    "verification": "https://youtu.be/eWIDtK__VpQ",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
-        {
-            "user": "EK",
-            "link": "https://youtu.be/wJR9NaTQN-8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Bats",
-            "link": "https://youtu.be/59TLfXca0OY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Mase",
-            "link": "https://youtu.be/YxJxZ3eAwNs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Voodoobanana",
-            "link": "https://youtu.be/D4fkuy36sA8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Pashkyl",
-            "link": "https://youtu.be/jD_aWzuaXuo",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Kon",
-            "link": "https://www.youtube.com/watch?v=XnUgZqft3Ks",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Apple",
-            "link": "https://www.youtube.com/watch?v=NzzGRWiLELE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Sara",
-            "link": "https://youtu.be/FuXaMXouwnE?si=uF_z3CDGMbfT4dOZ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CJ",
-            "link": "https://youtu.be/DDY82U8m2zs?si=BjGLLpfI2KteDJBR",
             "percent": 100,
             "hz": 240
         }
