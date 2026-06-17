@@ -21,19 +21,19 @@
             "hz": 360
         },
         {
-        "user": "Bats",
+            "user": "Bats",
             "link": "https://www.youtube.com/watch?v=UCd6IpugyXU",
             "percent": 100,
             "hz": 240
         },
         {
-        "user": "Voodoobanana",
+            "user": "Voodoobanana",
             "link": "https://youtu.be/km4N6m0alpI",
             "percent": 100,
             "hz": 240
         },
         {
-        "user": "Kon",
+            "user": "Kon",
             "link": "https://www.youtube.com/watch?v=OUfo26989zY",
             "percent": 100,
             "hz": 240
@@ -41,6 +41,12 @@
         {
             "user": "Apple",
             "link": "https://youtu.be/J7fHgKsV5gA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Trigus",
+            "link": "https://youtu.be/uTVqQR3R9uc",
             "percent": 100,
             "hz": 240
         }
