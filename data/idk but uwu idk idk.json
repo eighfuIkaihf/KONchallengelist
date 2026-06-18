@@ -1,7 +1,7 @@
 {
     "id": 142101292,
     "name": "idk but uwu idk idk",
-      "author": "Bishmilla",
+    "author": "Bishmilla",
     "creators": ["Bishmilla"],
     "verifier": "Mase",
     "verification": "https://youtu.be/ZDd83Kmz5LA",
@@ -59,6 +59,12 @@
         {
             "user": "Dizzy",
             "link": "https://youtu.be/WCQ2WhWpB34",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Trigus",
+            "link": "https://youtu.be/_UePDsxPZtc",
             "percent": 100,
             "hz": 240
         }
