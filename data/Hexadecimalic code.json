@@ -1,5 +1,5 @@
 {
-    "id": 142317504,
+    "id": 142241271,
     "name": "Hexadecamalic code",
     "author": "Notch166",
     "creators": ["Notch166"],
@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "0",
     "records": [
+        {
+            "user": "Voodoobanana",
+            "link": "https://www.youtube.com/watch?v=ivopfqD5DSQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
