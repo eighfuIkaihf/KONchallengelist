@@ -1,5 +1,5 @@
 {
-    "id": 142260021,
+    "id": 142317504,
     "name": "ILLUSIONARY",
     "author": "Kyouki",
     "creators": ["Kyouki"],
@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "0",
     "records": [
+        {
+            "user": "Trigus",
+            "link": "https://youtu.be/l2348TcpjeM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
