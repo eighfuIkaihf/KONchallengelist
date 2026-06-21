@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=Rj0QmaAUdw0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Mase",
+            "link": "https://youtu.be/TizMgIhOMkQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
