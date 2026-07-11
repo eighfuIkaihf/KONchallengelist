@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=qat9Tp2sIaQ",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "hammy",
+            "link": "https://www.youtube.com/watch?v=_O65NMOKO2g",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
