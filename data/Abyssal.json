@@ -25,6 +25,12 @@
             "link": "https://youtu.be/TizMgIhOMkQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "clalser",
+            "link": "https://www.youtube.com/watch?v=IOzjyXi1DxU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
