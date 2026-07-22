@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=agQ0WgO_Als",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Moon",
+            "link": "https://www.youtube.com/watch?v=JM3TYP_KCFo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
