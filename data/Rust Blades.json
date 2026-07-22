@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=QHtrlCbeA6c",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Moon",
+            "link": "https://www.youtube.com/watch?v=ZKr34J9tdi0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
