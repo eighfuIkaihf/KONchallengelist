@@ -8,5 +8,16 @@
     "percentToQualify": "100",
     "password": "0",
     "records": [
+        {
+            "user": "clalser",
+            "link": "https://www.youtube.com/watch?v=eEj-nnCihjE",
+            "percent": 100,
+            "hz": 240
+        }
+        {
+            "user": "Mase",
+            "link": "https://www.youtube.com/watch?v=PYvTeW9oRY0",
+            "percent": 100,
+            "hz": 240
     ]
 }
