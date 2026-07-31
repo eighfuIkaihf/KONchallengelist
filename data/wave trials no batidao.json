@@ -25,6 +25,12 @@
         "link": "https://www.youtube.com/watch?v=7dMN2yMHAJ4",
         "percent": 100,
         "hz": 360
+         },
+         {
+        "user": "HaloShift",
+        "link": "https://www.youtube.com/watch?v=IBtRlaLbCV4",
+        "percent": 100,
+        "hz": 240
         }
     ]
 }
